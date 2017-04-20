@@ -16,6 +16,7 @@ public class MainFrame extends JFrame {
     public MainFrame(){
         jPanel=new JPanel();
         jFrame = new JFrame();
+
     }
 
     public static void main(String[] args) {
